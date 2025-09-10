@@ -2,7 +2,7 @@
 > Hadoop+PySpark大数据挖掘、处理与分析
 
 
-## 第1章：[深入浅出入门大数据](./Chapter01/第1章%20深入浅出入门大数据.pdf)
+## [第1章：深入浅出入门大数据](./Chapter01/第1章%20深入浅出入门大数据.pdf)
 ### 1.1走进大数据
 1.1.1 传统数据库介绍
 </br> 1.1.2 传统数据分析痛点
@@ -25,7 +25,7 @@
 </br> 1.3.6 Spark应用场景
 
 
-## 第2章：[Hadoop集群环境搭建](./Chapter02/第2章%20Hadoop集群环境搭建.pdf)
+## [第2章：Hadoop集群环境搭建](./Chapter02/第2章%20Hadoop集群环境搭建.pdf)
 ### 2.1 Hadoop集群环境介绍
 </br> 2.1.1 Hadoop组件选择
 </br> 2.1.1 Hadoop集群节点配置
@@ -46,7 +46,7 @@
 </br> 2.4.7 Hadoop集群监控
 
 
-## 第3章：[大数据开发工具装备](./Chapter03/第3章%20大数据开发工具装备.pdf)
+## [第3章：大数据开发工具装备](./Chapter03/第3章%20大数据开发工具装备.pdf)
 ### 3.1 大数据开发语言
 </br> 3.1.1 Python语言介绍
 </br> 3.1.2 Scala语言介绍
@@ -70,7 +70,7 @@
 </br> 3.5.3 Hello Scala—创建第一个Scala程序
 
 
-## 第4章：[Hadoop命令快速上手](./Chapter04/第4章%20Hadoop命令快速上手.pdf)
+## [第4章：Hadoop命令快速上手](./Chapter04/第4章%20Hadoop命令快速上手.pdf)
 ### 4.1 Hadoop集群信息查询
 </br> 4.1.1 集群节点信息查询
 </br> 4.1.2 集群存储系统信息查询
@@ -80,7 +80,7 @@
 </br> 4.2.2 HDFS文件操作命令
 </br> 4.2.3 HDFS Web操作HDFS
 
-## 第5章：[MapReduce计算引擎应用](./Chapter05/第5章%20MapReduce计算引擎应用.pdf)
+## [第5章：MapReduce计算引擎应用](./Chapter05/第5章%20MapReduce计算引擎应用.pdf)
 ### 5.1 你的第一个MapReduce程序
 </br> 5.1.1 Hadoop官方实例程序介绍
 </br> 5.1.2 提交集群MapReduce程序
@@ -94,7 +94,7 @@
 </br> 5.2.5 WordCount程序结果分析
 
    
-## 第6章：[Spark集群环境搭建](./Chapter06/第6章%20Spark集群环境搭建.pdf)
+## [第6章：Spark集群环境搭建](./Chapter06/第6章%20Spark集群环境搭建.pdf)
 ### 6.1 Spark集群环境介绍 
 </br> 6.1.1 Spark组件选择
 </br> 6.1.2 Spark集群节点配置
@@ -114,7 +114,7 @@
 </br> 6.5.2 Pyspark WordCount实战
 
 
-## 第7章：[Spark Core基础计算框架](./Chapter07/第7章%20Spark%20Core基础计算框架.pdf)
+## [第7章：Spark Core基础计算框架](./Chapter07/第7章%20Spark%20Core基础计算框架.pdf)
 </br>[Code](./Chapter07/Chapter07.ipynb)
 ### 7.1 RDD介绍
 </br> 7.1.1 什么是RDD 
@@ -135,7 +135,7 @@
 
 
 
-## 第8章：[数据分析—电商PV、UV榜实战](./Chapter08/第8章%20数据分析—电商PV、UV榜实战.pdf)
+## [第8章：数据分析—电商PV、UV榜实战](./Chapter08/第8章%20数据分析—电商PV、UV榜实战.pdf)
 </br>[Code](./Chapter08/Chapter08.ipynb)
 ### 8.1 数据统计实战介绍
 </br> 8.1.1 电商PV、UV需求介绍
@@ -148,7 +148,7 @@
 ### 8.3 代码实现详解
 
 
-## 第9章：[Spark SQL结构化数据处理](./Chapter09/第9章%20Spark%20SQL结构化数据处理.pdf)
+## [第9章：Spark SQL结构化数据处理](./Chapter09/第9章%20Spark%20SQL结构化数据处理.pdf)
 </br>[Code](./Chapter09/Chapter09.ipynb)
 ### 9.1 Spark SQL与DataFrame
 </br> 9.1.1 什么是Spark SQL
@@ -180,7 +180,7 @@
 ### 9.4 RDD、DataFrame、Spark SQL比较
 
 
-## 第10章：[Spark DataFrame实战—空气质量指数PM2.5分析](./Chapter10/第10章%20Spark%20SQL实战—空气质量指数PM2.5分析.pdf)
+## [第10章：Spark DataFrame实战—空气质量指数PM2.5分析](./Chapter10/第10章%20Spark%20SQL实战—空气质量指数PM2.5分析.pdf)
 </br>[Code](./Chapter10/Chapter10.ipynb)
 ### 10.1 Spark DataFrame实战介绍
 </br> 10.1.1 空气质量指数分析需求介绍
@@ -195,7 +195,7 @@
 </br> 10.3.2 Pandas数据绘图
 
 
-## 第11章：[Spark机器学习利器](./Chapter11/第11章%20Spark%20机器学习利器.pdf)
+## [第11章：Spark机器学习利器](./Chapter11/第11章%20Spark%20机器学习利器.pdf)
 </br>[Code](./Chapter11/Chapter11.ipynb)
 ### 11.1 Spark ML与Spark Mlib
 </br> 11.1.1 Spark Mlib介绍
@@ -247,7 +247,7 @@
 </br> 11.7.10 模型保存与导入
 
 
-## 第12章：[Spark ML Pipeline让机器学习更丝滑](./Chapter12/第12章%20Spark%20ML%20Pipeline让机器学习更顺畅.pdf)
+## [第12章：Spark ML Pipeline让机器学习更丝滑](./Chapter12/第12章%20Spark%20ML%20Pipeline让机器学习更顺畅.pdf)
 </br>[Code](./Chapter12/Chapter12.ipynb)
 ### 12.1 Pipline主要概念
 </br> 12.1.1 Pipline简介
@@ -266,7 +266,7 @@
 </br> 12.2.5 模型评估
 
 
-## 第13章：[大数据分析最佳实战—电影推荐系统](./Chapter13/第13章 大数据分析最佳实战—电影推荐系统.pdf)
+## [第13章：大数据分析最佳实战—电影推荐系统](./Chapter13/第13章%20大数据分析最佳实战—电影推荐系统.pdf)
 </br>[Code](./Chapter13/Chapter13.ipynb)
 ### 13.1 推荐系统介绍
 </br> 13.1.1 推荐系统
